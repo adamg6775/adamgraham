@@ -10,21 +10,19 @@ I'm Adam Graham, a Data student in sweden, I´m passionate about training, my fr
 
 Here are some of the projects I've been working on:
 
-1. [Project 1](link-to-project-1): Brief description.
-2. [Project 2](link-to-project-2): Brief description.
-3. [Project 3](link-to-project-3): Brief description.
+1. Server Maintenance: Me and my group have been working on our own servers and server racks.
+2. Web Development: I have been working my own website and developing it using code in VS codium.
 
 ## Skills
 
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- ...
+Coding
+programming 
+Network Infrastructure 
+Cyber security
 
 ## Connect with Me
 
-- [LinkedIn](your-LinkedIn-profile-link)
-- [Twitter](your-Twitter-profile-link)
+- [LinkedIn](https://www.linkedin.com/in/adam-graham-395a44250/)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
 
