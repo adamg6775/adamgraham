@@ -15,10 +15,10 @@ Here are some of the projects I've been working on:
 
 ## Skills
 
-Coding
-programming 
-Network Infrastructure 
-Cyber security
+Coding,
+programming,
+Network Infrastructure, 
+Cyber security,
 
 ## Connect with Me
 
